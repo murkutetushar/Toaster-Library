@@ -13,6 +13,6 @@ The minimum API level supported by this library is API 21, Android 5.0 (Lollipop
 2) Add the library to your dependencies in build.gradle (Module: app):
     compile 'com.github.murkutetushar:Toaster-Library:0.1.0'
 
-#License
+# License
 
  Copyright (c) 2019 Tushar Murkute
